@@ -28,6 +28,7 @@ I am a project management professional with several years spanning civil society
 
 ## Projects
 - *Interactive Periodic Table of Elements*
+- *Built an interactive professional CV. [Link](T03 – CSS - Overview/index.html)*
 
 ## Statistics
 
