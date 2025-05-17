@@ -13,8 +13,8 @@
 ## About Me
 I am a project management professional with several years spanning civil society organisations.
 - *I am currently working as Project Officer and on some coding projects.*
-- *In my free time, I generate social media content, do coding, and write research articles.*
-- *I wish to learn more of programming moving forward and establish a career in the Tec industry*
+- *In my free time, I do coding, research, and generate social content.*
+- *I wish to learn more of programming and establish a career in the Tech industry.*
 
 ## Qualifications
 - *Public Health for Eye Care*
