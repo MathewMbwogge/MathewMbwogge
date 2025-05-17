@@ -12,10 +12,9 @@
 
 ## About Me
 I am a project management professional with several years spanning civil society organisations.
-- *I am currently working as Project Officer with NHS Clinical Leaders Network.*
-- *I am currently leaning Cloud Web Development and Emerging Frontline Clinical Leadership Programmes.*
+- *I am currently working as Project Officer and on some coding projects.*
 - *In my free time, I generate social media content, do coding, and write research articles.*
-- *I wish to learn more of programming moving forward and establish a career in HealthTec*
+- *I wish to learn more of programming moving forward and establish a career in the Tec inisdustry*
 
 ## Qualifications
 - *Public Health for Eye Care*
