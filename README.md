@@ -27,8 +27,7 @@ I am a project management professional with several years spanning civil society
 - *Scrum Master*
 
 ## Projects
-- *Interactive Periodic Table of Elements*
-- *Built an interactive professional CV*
+- *Please refer to my repositories to see projects*
 
 ## Statistics
 
