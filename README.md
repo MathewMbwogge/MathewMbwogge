@@ -14,7 +14,7 @@
 I am a project management professional with several years spanning civil society organisations.
 - *I am currently working as Project Officer and on some coding projects.*
 - *In my free time, I do coding, research, and generate social content.*
-- *I wish to learn more of programming and establish a career in the Tech industry.*
+- *I wish to learn more of programming and establish a career in the health tech.*
 
 ## Qualifications
 - *Public Health for Eye Care*
